@@ -4,5 +4,5 @@ The official consolidation, or up-to-date version, of public laws is a convenien
 
 # Frequently accessed laws
 
-- [Constitution](https://github.com/State-of-Millbrooke/Laws/blob/main/Constitution/Constitution.md)
-- [State Code](https://github.com/State-of-Millbrooke/Laws/blob/main/State%20Code/State%20Code.md)
+- [Constitution](https://github.com/State-of-Millbrooke/Laws/tree/main/Constitution)
+- [State Code](https://github.com/State-of-Millbrooke/Laws/tree/main/State%20Code)
