@@ -14,11 +14,11 @@ Assembly of Millbrooke
 
 ## INTERPRETATION
 
-**Short title**
+#### Short title
 
 1. This enactment may be cited as the _State Code_.
 
-**Definitions**
+#### Definitions
 
 2. In this enactment, unless the context otherwise requires:
 
@@ -110,52 +110,52 @@ Assembly of Millbrooke
     - a firearm, and
     - an imitation firearm.
 
-**Effect of judicial acts**
+#### Effect of judicial acts
 
 3. Unless otherwise provided or ordered, anything done by a court, justice or judge is effective from the moment it is done, whether or not it is reduced to writing.
 
-**Punishment**
+#### Punishment
 
 4. Where an offence is punishable by a term of imprisonment and a fine, a person who commits the offence may be liable to both punishments.
 
-**Refusal to present firearms license**
+#### Refusal to present firearms license
 
 5. Every person who is carrying a firearm and who, upon the request of a peace officer, intentionally and continuously refuses to present a valid firearms license is deemed to not have a valid firearms license notwithstanding whether or not the person had a valid firearms license.
 
 ## PARTIES TO OFFENCES
 
-**Parties to offence**
+#### Parties to offence
 
 6. Every person is a party to an offence who
 - actually commits it;
 - does or omits to do anything for the purpose of aiding any person to commit it; or
 - abets any person in committing it.
 
-**Common intention**
+#### Common intention
 
 7. Where two or more persons form an intention in common to carry out an unlawful purpose and to assist each other therein and any one of them, in carrying out the common purpose, commits an offence, each of them who knew or ought to have known that the commission of the offence would be a probable consequence of carrying out the common purpose is a party to that offence.
 
-**Person counselling offence**
+#### Person counselling offence
 
 8. Every one who counsels another person to be a party to an offence is a party to every offence that the other commits in consequence of the counselling that the person who counselled knew or ought to have known was likely to be committed in consequence of the counselling, notwithstanding that the offence was committed in a way different from that which was counselled.
   
 8.1. Counsel includes procure, solicit or incite.
 
-**Accessory after the fact**
+#### Accessory after the fact
 
 9. An accessory after the fact to an offence is one who, knowing that a person has been a party to the offence, receives, comforts or assists that person for the purpose of enabling that person to escape.
 
-**Attempts**
+#### Attempts
 
 10. Every person who, having an intent to commit an offence, does or omits to do anything for the purpose of carrying out the intention is guilty of an attempt to commit the offence whether or not it was possible under the circumstances to commit the offence.
 
 ## DEFENCES, EXCUSES, AND JUSTIFICATIONS
 
-**Ignorance of the law**
+#### Ignorance of the law
 
 11. Ignorance of the law by a person who commits an offence is not an excuse for committing that offence.
 
-**Compulsion by threats**
+#### Compulsion by threats
 
 12. A person who commits an offence under compulsion by threats of immediate death or bodily harm from a person who is present when the offence is committed is excused for committing the offence if the person believes that the threats will be carried out and if the person is not a party to a conspiracy or association whereby the person is subject to compulsion, except where the offence that is committed is
 - treason,
@@ -167,11 +167,11 @@ Assembly of Millbrooke
 - unlawfully causing bodily harm, or
 - arson.
 
-**Consent to death**
+#### Consent to death
 
 13. No person is entitled to consent to have death inflicted on them, and such consent does not affect the criminal responsibility of any person who inflicts death on the person who gave consent.
 
-**Protection of persons acting under authority**
+#### Protection of persons acting under authority
 
 14. Every person who is required or authorized by law to do anything in the administration or enforcement of the law
 - as a private person,
@@ -182,11 +182,11 @@ Assembly of Millbrooke
 
   is, if he or she acts on reasonable grounds and in good faith, justified in doing what he or she is required or authorized to do and in using as much force as is necessary for that purpose.
 
-**When not protected**
+#### When not protected
 
 14.1. A person is not justified in using force that is intended or is likely to cause death or grievous bodily harm unless the person believes on reasonable grounds that it is necessary for the self-preservation of the person or the preservation of any one under that person's protection from death or grievous bodily harm.
 
-**When protected**
+#### When protected
 
 14.2. A peace officer, and every person lawfully assisting the peace officer, is justified in using force that is intended or is likely to cause death or grievous bodily harm to a person to be arrested, if
 - the peace officer is proceeding lawfully to arrest, with or without warrant, the person to be arrested;
@@ -194,13 +194,13 @@ Assembly of Millbrooke
 - the peace officer or other person using the force believes on reasonable grounds that the force is necessary for the purpose of protecting the peace officer, the person lawfully assisting the peace officer or any other person from imminent or future death or grievous bodily harm; and
 - the flight cannot be prevented by reasonable means in a less violent manner.
 
-**Special powers - escape from lawful custody**
+#### Special powers - escape from lawful custody
 
 14.3. A peace officer is justified in using force that is intended or is likely to cause death or grievous bodily harm against an inmate who is escaping from a prison, if
 - the peace officer believes on reasonable grounds that any of the inmates of the penitentiary poses a threat of death or grievous bodily harm to the peace officer or any other person; and
 - the escape cannot be prevented by reasonable means in a less violent manner.
 
-**Justification for acts and omissions**
+#### Justification for acts and omissions
 
 15. An official is justified in committing an act or omission that would otherwise constitute an offence, except if that offence is a felony offence, if the official
 - is engaged in the investigation of criminal activity;
@@ -208,11 +208,11 @@ Assembly of Millbrooke
 - acts with due diligence to prevent the loss of or serious damage to property; and
 - acts with due diligence to preserve the life and safety of any person.
 
-**Requirement to file report**
+#### Requirement to file report
 
 15.1. Every official who commits an act or omission that would otherwise constitute an offence shall, as soon as is feasible after the commission of the act or omission, file a written report with the Attorney General describing the act or omission.
 
-**Defence - use or threat of force**
+#### Defence - use or threat of force
 
 16. A person is not guilty of an offence if
 - they believe on reasonable grounds that force is being used against them or another person or that a threat of force is being made against them or another person;
@@ -229,11 +229,11 @@ Assembly of Millbrooke
 - the nature and proportionality of the person's response to the use or threat of force; and
 - whether the act committed was in response to a use or threat of force that the person knew was lawful.
 
-**Exception**
+#### Exception
 
 16.2. This section does not apply if the force is used or threatened by another person for the purpose of doing something that they are required or authorized by law to do in the administration or enforcement of the law, unless the person who commits the act that constitutes the offence believes on reasonable grounds that the other person is acting unlawfully.
 
-**Defence of property**
+#### Defence of property
 
 17. A person is not guilty of an offence if
 - they either believe on reasonable grounds that they are in peaceable possession of property or are acting under the authority of, or lawfully assisting, a person whom they believe on reasonable grounds is in peaceable possession of property;
@@ -246,36 +246,36 @@ Assembly of Millbrooke
   - preventing the other person from taking, damaging or destroying the property or from making it inoperative, or retaking the property from that person; and
 - the act committed is reasonable in the circumstances.
 
-**Exception**
+#### Exception
 
 17.1. This section does not apply if the other person is doing something that they are required or authorized by law to do in the administration or enforcement of the law, unless the person who commits the act that constitutes the offence believes on reasonable grounds that the other person is acting unlawfully.
 
-**Limitation**
+#### Limitation
 
 18. Nothing justifies the intentional or criminally negligent causing of death or bodily harm to another person or the wilful attempt in any manner to obstruct, pervert, or defeat the course of justice.
 
 ## CRIMINAL PROCEDURE
 
-**Duty of person executing warrant**
+#### Duty of person executing warrant
 
 19. It is the duty of every one who executes a warrant, whether to search or to arrest, to have it with him or her and to produce it when requested to do so.
 
-**Peace officer must arrest when required by warrant**
+#### Peace officer must arrest when required by warrant
 
 20. A peace officer must arrest a person if a valid warrant so requires.
 
-**Duty of person arresting**
+#### Duty of person arresting
 
 21. It is the duty of every one who arrests a person, whether with or without a warrant, to give notice to that person of the reason for the arrest.
 
-**Arrest without a warrant**
+#### Arrest without a warrant
 
 22. A peace officer may arrest without warrant a person
 - who he or she finds committing a criminal offence;
 - who, on reasonable grounds, he or she believes has committed a criminal offence; or
 - who, on reasonable grounds, he or she believes is about to commit a criminal offence.
 
-**Discretion of peace officers**
+#### Discretion of peace officers
 
 23. A peace officer
   - who finds a person committing a felony offence in Schedule A must arrest that person for the offence;
@@ -283,13 +283,13 @@ Assembly of Millbrooke
   - who finds a person committing a misdemeanour offence in Schedule C may arrest, fine, or arrest and fine that person for the offence, or the peace officer may release that person without charge; and
   - who finds a person committing an infraction in Schedule D may fine that person for the offence, or the peace officer may release that person without charge.
 
-**Right to a hearing**
+#### Right to a hearing
 
 24. Where a peace officer arrests a person without a warrant and at the time of the arrest, a judge is presently available in-game to conduct an initial appearance, it is the duty of the peace officer
 - to give notice to the person being arrested of his or her right to a hearing before a judge; and
 - if the person being arrested chooses to exercise that right, to bring said person before a judge and have the arrest reviewed by said judge.
 
-**Initial appearance - mode of hearings**
+#### Initial appearance - mode of hearings
 
 24.1. The arresting officer may present any information relating to the arrest and offences charged under oath or affirmation, or under the pains and penalties of perjury.
 
@@ -297,17 +297,17 @@ Assembly of Millbrooke
 
 24.3. Initial appearances are to be held as ex parte proceedings, unless the judge otherwise orders.
 
-**Initial appearance - court orders**
+#### Initial appearance - court orders
 
 25. At an initial appearance, the court may
 - authorize the arrest and booking, if it finds probable and reasonable grounds that the person arrested committed the offences charged; or
 - order that the person arrested be released and dismiss the charges, if it does not find probable and reasonable grounds that the person arrested committed the offences charged.
 
-**No appeal**
+#### No appeal
 
 25.1. There is no appeal of any orders made under this section.
 
-**Limitation**
+#### Limitation
 
 26. The limitation period that applies to offences and infractions under this enactment is as follows:
 - Prosecution for felony offences in Schedule A must commence within 60 days of the offence.
@@ -317,7 +317,7 @@ Assembly of Millbrooke
 
 ## OFFENCES AGAINST PUBLIC ORDER
 
-**Treason**
+#### Treason
 
 27. Every person commits _treason_ who,
 - levies war against the State of Millbrooke or any part of the state or does any act preparatory thereto;
@@ -331,7 +331,7 @@ Assembly of Millbrooke
 
 27.2. Every person who commits _treason_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Sabotage**
+#### Sabotage
 
 28. Every person commits _sabotage_ who does a prohibited act for a purpose prejudicial to the safety, security or defence of the State of Millbrooke or any part of the state.
 
@@ -341,7 +341,7 @@ Assembly of Millbrooke
 
 28.2. Every person who commits _sabotage_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Sedition**
+#### Sedition
 
 29. Every person commits _sedition_ who intends, expresses, or advocates the use, without the authority of law, of force as a means of accomplishing a governmental change within the State of Millbrooke or any government within the state.
 
@@ -357,7 +357,7 @@ Assembly of Millbrooke
 
 29.3. Every person who commits _sedition_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Participation in an unlawful assembly**
+#### Participation in an unlawful assembly
 
 30. An unlawful assembly is an assembly of three or more persons who, with intent to carry out any common purpose, assemble in such a manner or so conduct themselves when they are assembled as to cause persons in the area of the assembly to fear, on reasonable grounds, that they
 - will disturb the peace tumultuously, or
@@ -369,7 +369,7 @@ Assembly of Millbrooke
  
 30.3. Every person who takes part in an unlawful assembly and who refuses to disperse peaceably within 10 minutes of a lawful command by a peace officer to disperse commits _participation in an unlawful assembly_, is guilty of a misdemeanour offence, and is liable to the punishment described in Schedule C.
 
-**Rioting**
+#### Rioting
 
 31. Every person commits _rioting_ who takes part in an unlawful assembly
 - that has begun to disturb the peace tumultuously or violently; or
@@ -378,7 +378,7 @@ Assembly of Millbrooke
 
 31.1. Every person who commits _rioting_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Terrorism**
+#### Terrorism
 
 32. Every person commits _terrorism_ who commits an act or omission
 - that is committed
@@ -398,19 +398,19 @@ Assembly of Millbrooke
 
 ## OFFENCES INVOLVING FIREARMS AND OTHER WEAPONS
 
-**Careless use of firearm**
+#### Careless use of firearm
 
 33. Every person commits _careless use of a firearm_ who, without lawful excuse, uses, carries, handles, ships, transports, or stores a firearm or any ammunition without exercising due regard for the safety of other persons that would be expected of a reasonable person or that a reasonable person ought to know.
  
 33.1. Every person who commits _careless use of a firearm_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Pointing a firearm**
+#### Pointing a firearm
 
 34. Every person commits _pointing a firearm_ who, without lawful excuse, intentionally, and for a sustained period of time, points a firearm or imitation firearm at another person, whether the firearm is loaded or unloaded.
 
 34.1. Every person who commits _pointing a firearm_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Unlicensed possession of a firearm**
+#### Unlicensed possession of a firearm
 
 35. Every person who does not hold a valid firearms licence commits _unlicensed possession of a firearm_ who possesses a non-restricted firearm listed in Schedule E, or any other firearm not provided in an enactment.
 
@@ -418,13 +418,13 @@ Assembly of Millbrooke
 
 35.2. Every person who commits _unlicensed possession of a firearm_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Unauthorized possession of a restricted firearm**
+#### Unauthorized possession of a restricted firearm
 
 36. Every person who is not a peace officer commits _unauthorized possession of a restricted firearm_ who possesses an unauthorized firearm listed in Schedule F.
 
 36.1. Every person who commits _unauthorized possession of a restricted firearm_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Unauthorized possession of a prohibited firearm**
+#### Unauthorized possession of a prohibited firearm
 
 37. Every person commits _unauthorized possession of a prohibited firearm_ who possesses a prohibited firearm listed in Schedule G.
 
@@ -432,7 +432,7 @@ Assembly of Millbrooke
 
 37.2. Every person who commits _unauthorized possession of a prohibited firearm_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Possessing a prohibited magazine**
+#### Possessing a prohibited magazine
 
 38. Every person commits _possessing a prohibited magazine_ who possesses any ammunition listed in Schedule H without being the holder of a valid firearms licence under which the person may possess it.
 
@@ -440,13 +440,13 @@ Assembly of Millbrooke
 
 38.2. Every person who commits _possessing a prohibited magazine_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Possession contrary to order**
+#### Possession contrary to order
 
 39. Every person commits _possession contrary to order_ who possesses any firearm or ammunition while the person is prohibited from doing so by a court order.
 
 39.1. Every person who commits _possession contrary to order_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Possession of weapon at unauthorized place**
+#### Possession of weapon at unauthorized place
 
 40. Every person who is not a peace officer commits _possession of weapon at unauthorized place_ who possesses weapon, including a firearm or an imitation firearm, at
 - an embassy,
@@ -460,7 +460,7 @@ Assembly of Millbrooke
 
 40.1. Every person who commits _possession of weapon at unauthorized place_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Firearms trafficking**
+#### Firearms trafficking
 
 41. Every person who gives, sells, or transfers a firearm to another knowing that the other person is not authorized to possess said firearm is guilty of,
 - where the person is a peace officer and the other person is not, _aggravated firearms trafficking_, a felony offence, and liable to the punishment described in Schedule A;
@@ -470,7 +470,7 @@ Assembly of Millbrooke
 
 ## OFFENCES OF CORRUPTION AND DISOBEDIENCE
 
-**Bribery in judicial proceedings**
+#### Bribery in judicial proceedings
 
 42. Every person commits _bribery in judicial proceedings_ who,
 - where the person is a judge, justice, master or justice of the peace, directly or indirectly, accepts, obtains or agrees to accept or attempts to obtain, money or any other form of personal inducement in respect to an official action taken or not taken in their official capacity;
@@ -484,7 +484,7 @@ Assembly of Millbrooke
 
 42.2. Every person who commits _bribery in judicial proceedings_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Bribery of officers**
+#### Bribery of officers
 
 43. Every person commits _bribery of officers_ who,
 - being a judge, peace officer, official, or being employed in the administration of criminal law, directly or indirectly, corruptly accepts, obtains, agrees to accept or attempts to obtain, for themselves or another person, any money, valuable consideration, office, place, or employment with intent
@@ -497,7 +497,7 @@ Assembly of Millbrooke
 
 43.2. Every person who commits _bribery of officers_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Frauds on the government**
+#### Frauds on the government
 
 44. Every person commits _frauds on the government_ who
 - directly or indirectly
@@ -508,7 +508,7 @@ Assembly of Millbrooke
 
 44.1. Every person who commits _frauds on the government_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Breach of trust**
+#### Breach of trust
 
 45. Every person commits _breach of trust_ who,
 - in the case of an official, in connection with their office, commits fraud or a breach of trust against their office or the government;
@@ -517,7 +517,7 @@ Assembly of Millbrooke
 
 45.1. Every person who commits _breach of trust_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Corruption**
+#### Corruption
 
 46. Every person commits _corruption_ who directly or indirectly gives, offers, agrees to give, or agrees to offer to a government official or to anyone for the benefit of a government official; or, being a government official, directly or indirectly demands, accepts or offers or agrees to accept from any person for themselves or another person a loan, reward, advantage or benefit of any kind as consideration for the government official
 - to abstain from voting at an official proceeding;
@@ -529,13 +529,13 @@ Assembly of Millbrooke
 
 ## OFFENCES AGAINST THE ADMINISTRATION OF LAW AND JUSTICE
 
-**Disobeying a statute**
+#### Disobeying a statute
 
 47. Every person who, without lawful excuse, contravenes an enactment by intentionally doing anything that it forbids or by intentionally omitting to do anything that it requires to be done is, unless a punishment is expressly provided by law, guilty of _disobeying a statute_.
 
 47.1. Every person who commits _disobeying a statute_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Disobeying order of court**
+#### Disobeying order of court
 
 48. Every person who, without lawful excuse, disobeys a lawful order made by a court or judge is, unless a punishment or other mode of proceeding is expressly provided by law, guilty of _disobeying order of court_.
 
@@ -545,7 +545,7 @@ Assembly of Millbrooke
 
 48.3. Every person who commits _disobeying order of court_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Misconduct of officers**
+#### Misconduct of officers
 
 49. Every peace officer or official is guilty _misconduct of officers_ who, being entrusted with the execution of a duty or process, intentionally
 - misconducts himself or herself in the execution of the duty or process,
@@ -554,7 +554,7 @@ Assembly of Millbrooke
 
 49.1. Every person who commits _misconduct of officers_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Obstruction of a peace officer**
+#### Obstruction of a peace officer
 
 50. Every person commits _obstruction of a peace officer_ who resists or wilfully obstructs a peace officer in the execution of his or her duty or any person lawfully acting in aid of such an officer.
 
@@ -567,7 +567,7 @@ Assembly of Millbrooke
  
 50.2. Every person who commits _obstruction of a peace officer_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Personating officers**
+#### Personating officers
 
 51. Every person is deemed to be personating officers who
 - falsely represents himself or herself to be a peace officer;
@@ -578,7 +578,7 @@ Assembly of Millbrooke
 - where the person personated a peace officer, official, or government official, as the case may be, for the purpose of facilitating the commission of another offence, _aggravated personating officers_, a misdemeanour offence, and liable to the punishment described in Schedule B.
 - in any other case, _personating officers_, a misdemeanour offence, and liable to the punishment described in Schedule B.
 
-**Personating security**
+#### Personating security
 
 52. Every person commits _personating security_ who, not being authorized to act as a security,
 - falsely represents himself or herself to be a security;
@@ -587,7 +587,7 @@ Assembly of Millbrooke
 
 52.1. Every person who commits _personating security_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule C.
 
-**Perjury**
+#### Perjury
 
 53. Every person commits _perjury_ who, with intent to mislead, makes a false statement knowing that the statement is false under oath or solemn affirmation, by affidavit, in a solemn declaration, in a deposition, or in a judicial proceeding_._
 
@@ -595,7 +595,7 @@ Assembly of Millbrooke
 
 53.2. Every person who commits _perjury_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Fabricating evidence**
+#### Fabricating evidence
 
 54. Every person commits _fabricating evidence_ who, with intent to mislead, fabricates anything with intent that it shall be used as evidence in a judicial proceeding.
 
@@ -603,7 +603,7 @@ Assembly of Millbrooke
 
 54.2. Every person who commits _fabricating evidence_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Obstructing justice**
+#### Obstructing justice
 
 55. Every person commits _obstructing justice_ who wilfully attempts in any manner to obstruct, pervert, or defeat the course of justice in a judicial proceeding, including by
 - dissuading or attempting to dissuade a person by threats, bribes, or other corrupt means from giving evidence;
@@ -612,7 +612,7 @@ Assembly of Millbrooke
 
 55.1. Every person who commits _obstructing justice_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Public mischief**
+#### Public mischief
 
 56. Every person commits _public mischief_ who, with intent to mislead, causes a peace officer to enter on or continue an investigation, including by
 - making a false statement that accuses some other person of having committed an offence;
@@ -622,7 +622,7 @@ Assembly of Millbrooke
 
 56.1. Every person who commits _public mischief_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Concealment of offence**
+#### Concealment of offence
 
 57. Every person commits _concealment of offence_ who asks for, obtains, agrees to receive, or agrees to obtain any valuable consideration for themselves or any other person by agreeing to conceal an offence committed.
 
@@ -630,7 +630,7 @@ Assembly of Millbrooke
 
 57.2. Every person who commits _concealment of offence_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Prison breach**
+#### Prison breach
 
 58. Every person commits _prison breach_ who,
 - by force or violence breaks a prison with intent to set at liberty himself or herself or any other person confined therein, or
@@ -638,13 +638,13 @@ Assembly of Millbrooke
 
 58.1. Every person who commits _prison breach_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Escape without excuse**
+#### Escape without excuse
 
 59. Every person commits _escape without excuse_ who escapes from lawful custody or who is, before the expiration of a term of imprisonment to which they were sentenced, at large without lawful excuse.
 
 59.1. Every person who commits _escape without excuse_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Failure to attend court**
+#### Failure to attend court
 
 60. Every person commits _failure to attend court_ who,
 - is at large on a release order and who fails, without lawful excuse, to attend court in accordance with the release order;
@@ -656,7 +656,7 @@ Assembly of Millbrooke
 
 60.1. Every person who commits _failure to attend court_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Failure to comply with undertaking**
+#### Failure to comply with undertaking
 
 61. Every person commits _failure to comply with undertaking_ who is at large on an undertaking and who fails, without lawful excuse,
 - to comply with a condition of that undertaking; or
@@ -664,7 +664,7 @@ Assembly of Millbrooke
 
 61.1. Every person who commits _failure to comply with undertaking_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Assisting or negligently permitting escape**
+#### Assisting or negligently permitting escape
 
 62. Every person commits _assisting or negligently permitting escape_ who,
 - permits a person whom he or she has in lawful custody to escape, by failing to perform a legal duty;
@@ -673,7 +673,7 @@ Assembly of Millbrooke
 
 62.1. Every person who commits _assisting or negligently permitting escape_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Rescue or wilfully permitting escape**
+#### Rescue or wilfully permitting escape
 
 63. Every person commits _rescue or wilfully permitting escape_ who,
 - rescues any person from lawful custody or assists any person in escaping or attempting to escape from lawful custody,
@@ -682,7 +682,7 @@ Assembly of Millbrooke
 
 63.1. Every person who commits _rescue or wilfully permitting escape_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Failure to pay fine**
+#### Failure to pay fine
 
 64. Every person fails to pay a fine who, having been issued a fine by a peace officer, a court, or a judge, fails to pay the amount owed within the delay prescribed.
 
@@ -698,13 +698,13 @@ Assembly of Millbrooke
 
 ## OFFENCES RELATING TO DISORDERLY CONDUCT
 
-**Disorderly conduct**
+#### Disorderly conduct
 
 65. Every person commits _disorderly conduct_ who, in a public place, acts in such a way that he or she knows or ought to know is likely to offend against public decency or order.
 
 65.1. Every person who commits _disorderly conduct_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule C.
 
-**Causing disturbance**
+#### Causing disturbance
 
 66. Every person commits _causing disturbance_ who, in a public place,
 - causes a disturbance by
@@ -720,7 +720,7 @@ Assembly of Millbrooke
 
 66.1. Every person who commits _causing disturbance_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule C.
 
-**Common nuisance**
+#### Common nuisance
 
 67. Every person commits _common nuisance_ who
 - endangers the lives, safety, or health, property, or comfort of the public;
@@ -729,19 +729,19 @@ Assembly of Millbrooke
 
 67.1. Every person who commits _common nuisance_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**False alarm of fire**
+#### False alarm of fire
 
 68. Every person commits _false alarm of fire_ who wilfully, without reasonable cause, by outcry, ringing bells, using a fire alarm, telephone, or in any other manner, makes, circulates, or causes to be made or circulated an alarm of fire.
 
 68.1. Every person who commits _false alarm of fire_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Interfering with roadside workers**
+#### Interfering with roadside workers
 
 69. Every person commits _interfering with roadside workers_ who, knowing that a person is a roadside worker in the execution of his or her duties, obstructs, interferes with, impedes, disrupts, or endangers the worker in relation to his or her duties.
  
 69.1. Every person who commits _interfering with roadside workers_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Interfering with rescue**
+#### Interfering with rescue
 
 70. Every person commits _interfering with rescue_ who intentionally prevents or impedes, or who intentionally endeavours to prevent or impede,
 - the saving of persons stranded, abandoned, injured, or in distress; or
@@ -751,7 +751,7 @@ Assembly of Millbrooke
 
 ## OFFENCES AGAINST THE PERSON
 
-**Criminal negligence**
+#### Criminal negligence
 
 71. Every person is criminally negligent who
 - in doing anything, or
@@ -763,7 +763,7 @@ Assembly of Millbrooke
 - causes death to another person, is guilty of _criminal negligence causing death_, a felony offence and liable to the punishment described in Schedule A; or
 - causes bodily harm to another person, is guilty of _criminal negligence causing bodily harm_, a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Homicide**
+#### Homicide
 
 72. Every person commits homicide when, directly or indirectly, by any means, he or she causes the death of an individual.
 
@@ -774,7 +774,7 @@ Assembly of Millbrooke
 - by criminal negligence; or
 - by causing that individual, by threats or fear of violence or by deception, to do anything that causes his or her death.
 
-**Murder**
+#### Murder
 
 73. Every person who commits culpable homicide commits murder
 - where the person who causes the death of an individual
@@ -793,7 +793,7 @@ Assembly of Millbrooke
 
 73.3. Every person who commits _first degree murder_ or _second degree murder_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Manslaughter**
+#### Manslaughter
 
 74. Culpable homicide that otherwise would be murder may be reduced to _manslaughter_ if the person who committed it did so in the heat of passion caused by sudden provocation.
 
@@ -801,31 +801,31 @@ Assembly of Millbrooke
  
 74.2. Every person who commits _manslaughter_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Attempted murder**
+#### Attempted murder
 
 75. Every person commits _attempted murder_ who attempts by any means to commit murder
  
 75.1. Every person who commits _attempted murder_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Accessory to murder**
+#### Accessory to murder
 
 76. Every person commits _accessory to murder_ who is an accessory after the fact to murder.
  
 76.1. Every person who commits _accessory to murder_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Conspiracy to murder**
+#### Conspiracy to murder
 
 77. Every person commits _conspiracy to murder_ who conspires with any one to commit murder or to cause another person to be murdered.
   
 77.1. Every person who commits _conspiracy to murder_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Discharging a firearm with intent to wound**
+#### Discharging a firearm with intent to wound
 
 78. Every person commits _discharging a firearm with intent to wound_ who discharges a firearm at a person with intent to wound, maim or disfigure, to endanger the life of or to prevent the arrest or detention of any person, whether or not that person is the one at whom the firearm is discharged.
 
 78.1. Every person who commits _discharging a firearm with intent to wound_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Recklessly discharging a firearm**
+#### Recklessly discharging a firearm
 
 79. Every person commits _recklessly discharging a firearm_ who
 - intentionally discharges a firearm into or at a building, structure, motor vehicle, aircraft, vessel, container, or trailer, knowing that or being reckless as to whether another person is present in that place; or
@@ -833,7 +833,7 @@ Assembly of Millbrooke
 
 79.1. Every person who commits _recklessly discharging a firearm_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Criminal harassment**
+#### Criminal harassment
 
 80. Every person commits _criminal harassment_ who, without lawful authority, causes another person to reasonably and in the whole of the circumstances, fear for their safety or the safety of anyone known to them by
 - repeatedly following from place to place the other person or anyone known to them;
@@ -843,7 +843,7 @@ Assembly of Millbrooke
 
 80.1. Every person who commits _criminal harassment_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Uttering threats**
+#### Uttering threats
 
 81. Every person commits _uttering threats_ who, in any manner, knowingly utters, conveys or causes any person to receive a threat
 - to cause death or bodily harm to any person; or
@@ -851,7 +851,7 @@ Assembly of Millbrooke
 
 81.1. Every person who commits _uttering threats_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Assault**
+#### Assault
 
 82. Every person commits an assault who
 - without the consent of another person, he or she applies force intentionally to that other person, directly or indirectly;
@@ -866,19 +866,19 @@ Assembly of Millbrooke
 - where in committing an assault, the person uses or threatens to use a conveyance, _assault with conveyance_, a misdemeanour offence and liable to the punishment described in Schedule B; or
 - in all other cases, _assault_, a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Aggravated assault**
+#### Aggravated assault
 
 83. Every person commits _aggravated assault_ who wounds, maims, disfigures or endangers the life of the victim.
 
 83.1 Every person who commits _aggravated assault_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Unlawfully causing bodily harm**
+#### Unlawfully causing bodily harm
 
 84. Every person commits _unlawfully causing bodily harm_ who unlawfully causes bodily harm to any person during the commission of another offence.
 
 84.1. Every person who commits _unlawfully causing bodily harm_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Torture**
+#### Torture
 
 85. Every official, or every person acting on behalf of an official, commits _torture_ who commits any act or omission by which severe pain or suffering, whether physical or mental, is intentionally inflicted on a person
 - for a purpose including
@@ -899,20 +899,20 @@ Assembly of Millbrooke
 
 85.3. Every person who commits _torture_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Assault of peace officer**
+#### Assault of peace officer
 
 86. Every person who commits an assault on a peace officer engaged in the execution of his or her duty or a person acting in aid of such an officer or on a person with intent to resist or prevent the lawful arrest or detention of himself or herself or another person is guilty of,
 - where in committing an assault on a peace officer, the person carries, uses or threatens to use a weapon or an imitation thereof, _assault peace officer with a weapon_, a misdemeanour offence and liable to the punishment described in Schedule B;
 - where in committing an assault on a peace officer, the person causes bodily harm to the peace officer, _assault peace officer causing bodily harm_, a misdemeanour offence and liable to the punishment described in Schedule B; or
 - in all other cases, _assault peace officer_, a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Aggravated assault of peace officer**
+#### Aggravated assault of peace officer
 
 87. Every person commits _aggravated assault of peace officer_ who, in committing an assault on a peace officer, wounds, maims, disfigures or endangers the life of the peace officer.
 
 87.1. Every person who commits _aggravated assault of peace officer_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Kidnapping**
+#### Kidnapping
 
 88. Every person commits a kidnapping who kidnaps another person with intent
 - to cause the other person to be confined or imprisoned against the person's will;
@@ -926,7 +926,7 @@ Assembly of Millbrooke
 - where the offence was committed for the benefit of, at the direction of, or in association with, a criminal organization, _aggravated kidnapping_, a felony offence and liable to the punishment described in Schedule A; or
 - in any other case, _kidnapping_, a felony offence and liable to the punishment described in Schedule A.
 
-**Forcible confinement**
+#### Forcible confinement
 
 89. Every person commits _forcible confinement_ who, without lawful authority, confines, imprisons, or forcibly seizes another person, or causes another person to be confined, imprisoned, or forcibly seized.
 
@@ -934,25 +934,25 @@ Assembly of Millbrooke
 
 ## OFFENCES RELATING TO CONVEYANCES
 
-**Dangerous operation**
+#### Dangerous operation
 
 90. Every person commits _dangerous operation_ who operates a conveyance in a manner that, having regard to all of the circumstances, is dangerous to the public.
 
 90.1. Every person who commits _dangerous operation_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Failure to stop after accident**
+#### Failure to stop after accident
 
 91. Every person commits _failure to stop after accident_ who operates a conveyance and who at the time of operating the conveyance knows that, or is reckless as to whether, the conveyance has been involved in an accident with a person or another conveyance and who fails, without reasonable excuse, to stop the conveyance
 
 91.1. Every person who commits _failure to stop after accident_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Flight from peace officer**
+#### Flight from peace officer
 
 92. Every person commits _flight from peace officer_ who operates a conveyance while being pursued by a peace officer and who fails, without reasonable excuse, to stop the conveyance as soon as is reasonable in the circumstances.
 
 92.1. Every person who commits _flight from peace officer_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Operating unsafe conveyance**
+#### Operating unsafe conveyance
 
 93. Every person commits _operating unsafe conveyance_ who operates a conveyance on any public roadway that
 - emits from its engine visible smoke;
@@ -961,13 +961,13 @@ Assembly of Millbrooke
 
 93.1. Every person who commits _operating unsafe conveyance_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule C.
 
-**Operation while prohibited**
+#### Operation while prohibited
 
 94. Everyone commits _operation while prohibited_ who operates a conveyance while prohibited from doing so by a driving prohibition.
 
 94.1. Every person who commits _operation while prohibited_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Aggravating circumstances**
+#### Aggravating circumstances
 
 95. In imposing a sentence for any offence relating to conveyances, a court shall consider, in addition to any other aggravating circumstances, the following:
 - the commission of the offence resulted in bodily harm to, or the death of, more than one person;
@@ -975,7 +975,7 @@ Assembly of Millbrooke
 - the offender was operating a large motor vehicle; and
 - the offender was prohibited from operating the conveyance.
 
-**Driving prohibition**
+#### Driving prohibition
 
 96. Every person who commits an offence relating to conveyances may be issued a driving prohibition, have their conveyance seized and impounded, or both, subject to this section.
  
@@ -989,7 +989,7 @@ Assembly of Millbrooke
 
 ## OFFENCES RELATING TO PROPERTY AND FRAUDULENT TRANSACTIONS
 
-**Theft**
+#### Theft
 
 97. Every one commits theft who fraudulently and without colour of right takes, or fraudulently and without colour of right converts to his use or to the use of another person, anything, whether animate or inanimate, with intent
 - to deprive, temporarily or absolutely, the owner of it, or a person who has a special property or interest in it, of the thing or of his property or interest in it;
@@ -1006,19 +1006,19 @@ Assembly of Millbrooke
 - if the value of what is stolen is not more than $5000, _theft under_, a misdemeanour offence and liable to the punishment described in Schedule B; or
 - if the property stolen is a motor vehicle, regardless of value, _motor vehicle theft_, a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Fraudulent concealment**
+#### Fraudulent concealment
 
 98. Every person commits _fraudulent concealment_ who, for a fraudulent purpose, takes, obtains, removes, or conceals anything.
 
 98.1. Every person who commits _fraudulent concealment_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Stopping conveyance with intent**
+#### Stopping conveyance with intent
 
 99. Every person commits _stopping conveyance with intent_ who stops any conveyance without lawful authority and with the intent to rob or search it, the operator of it, or a passenger seated in it.
 
 99.1. Every person who commits _stopping conveyance with intent_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Robbery**
+#### Robbery
 
 100. Every person commits a robbery who
 - steals, and for the purpose of extorting whatever is stolen or to prevent or overcome resistance to the stealing, uses violence or threats of violence to a person or property;
@@ -1033,13 +1033,13 @@ Assembly of Millbrooke
 - if the property stolen is from a bank, vault, safe, or deposit box, _aggravated robbery_, a felony offence and liable to the punishment described in Schedule A; or
 - in any other case, _robbery_, a felony offence and liable to the punishment described in Schedule A.
 
-**Extortion**
+#### Extortion
 
 101. Every person commits _extortion_ who, without reasonable justification or excuse and with intent to obtain anything, by threats, accusations, menaces, defamatory libel, or violence induces or attempts to induce any person, whether or not he or she is the person threatened, accused or menaced or to whom violence is shown, to do anything or cause anything to be done.
 
 101.1. Every person who commits _extortion_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Break and enter**
+#### Break and enter
 
 102. Every person commits a break and enter who
 - breaks and enters a place with intent to commit a felony offence therein,
@@ -1052,25 +1052,25 @@ Assembly of Millbrooke
 - if the offence is committed in relation to a dwelling-house, _break and enter into dwelling house_, a felony offence and liable to the punishment described in Schedule A.
 - if the offence is committed in relation to a place other than a dwelling-house, _break and enter_, a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Unlawfully in a dwelling-house**
+#### Unlawfully in a dwelling-house
 
 103. Every person commits _unlawfully in a dwelling-house_ who, without lawful excuse, enters or is in a dwelling-house with intent to commit a felony offence in it.
 
 103.1. Every person who commits _unlawfully in a dwelling-house_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Possession of break-in instruments**
+#### Possession of break-in instruments
 
 104. Every person commits _possession of break-in instruments_ who, without lawful excuse, has in their possession any instrument suitable for the purpose of breaking into any place, motor vehicle, vault or safe knowing that the instrument has been used or is intended to be used for that purpose.
 
 104.1. Every person who commits _possession of break-in instruments_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Disguise with intent**
+#### Disguise with intent
 
 105. Every person commits _disguise with intent_ who, with intent to commit a felony offence, has their face masked or coloured or is otherwise disguised.
 
 105.1. Every person who commits _disguise with intent_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Possession of property obtained by crime**
+#### Possession of property obtained by crime
 
 106. Every person is in possession of property obtained by crime who has in his or her possession any property or thing or any proceeds of any property or thing knowing that all or part of the property or thing or of the proceeds was obtained by or derived directly or indirectly from an offence.
 
@@ -1081,7 +1081,7 @@ Assembly of Millbrooke
 - if the property that is possessed is government or public property, regardless of value, _possession of exceeding property obtained by crime_, a felony offence and liable to the punishment described in Schedule A;
 - if the value of what is possessed is not more than $5000, _possession of property obtained by crime_, a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Trafficking property obtained by crime**
+#### Trafficking property obtained by crime
 
 107. Every person traffics property obtained by crime who traffics any property or thing or any proceeds of any property or thing knowing that all or part of the property, thing, or proceeds was obtained by or derived directly or indirectly from an offence.
 
@@ -1090,7 +1090,7 @@ Assembly of Millbrooke
 - if the property that is trafficked is government or public property, regardless of value, _trafficking exceeding property obtained by crime_, a felony offence and liable to the punishment described in Schedule A;
 - if the value of what is trafficked is not more than \$5000, _trafficking property obtained by crime_, a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Forgery**
+#### Forgery
 
 108. Every person commits _forgery_ who makes, uses, or acts on a false document, knowing it to be false, with intent
 - that it should in any way be used or acted on as genuine, to the prejudice of any one; or
@@ -1102,13 +1102,13 @@ Assembly of Millbrooke
 
 108.3. Every person who commits _forgery_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Fraud**
+#### Fraud
 
 109. Every person commits _fraud_ who, by deceit, falsehood or other fraudulent means, defrauds the public or any person, whether ascertained or not, of any property, money, or service.
 
 109.1. Every person who commits _fraud_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Intimidation**
+#### Intimidation
 
 110. Every person commits intimidation who, wrongfully and without lawful authority, for the purpose of compelling another person to abstain from doing anything that he or she has a lawful right to do, or to do anything that he or she has a lawful right to abstain from doing,
 - uses violence or threats of violence to that person;
@@ -1127,7 +1127,7 @@ Assembly of Millbrooke
 
 - in any other case, _intimidation_, a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Mischiefs**
+#### Mischiefs
 
 111. Every person commits mischief who wilfully
 - destroys or damages property;
@@ -1140,7 +1140,7 @@ Assembly of Millbrooke
 - if the mischief is committed in relation to property with a value which exceeds $5000, _mischief of exceeding value_, a felony offence and liable to the punishment described in Schedule A; or
 - if the mischief is committed in relation to property with a value which does not exceed $5000, _mischief_, a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Arsons**
+#### Arsons
 
 112. Every person commits an arson who intentionally or recklessly causes damage by fire or explosion to property, whether or not that person owns the property.
 
@@ -1150,13 +1150,13 @@ Assembly of Millbrooke
 - where person intended to defraud any other person, _aggravated arson_, a felony offence and liable to the punishment described in Schedule A; or
 - in any other case, _arson_, a felony offence and liable to the punishment described in Schedule A.
 
-**Arson by negligence**
+#### Arson by negligence
 
 113. Every person commits _arson by negligence_ who owns or controls property and who, as a result of a marked departure from the standard of care that a reasonably prudent person would use to prevent or control the spread of fires or to prevent explosions, is a cause of a fire or explosion in that property that causes bodily harm to another person or damage to property.
 
 113.1. Every person who commits _arson by negligence_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Trespassing**
+#### Trespassing
 
 114. Every person commits _trespassing_ if he or she enters land or property without the consent of its owner and
 - a sign prohibiting trespass was posted and clearly visible at each ordinary access to the land or property;
@@ -1176,7 +1176,7 @@ Assembly of Millbrooke
 
 ## OFFENCES INVOLVING REGULATORY STATUTES AND AUTHORITIES
 
-**Practice without license**
+#### Practice without license
 
 115. Every person commits _practice without license_ who,
 - practices professional medical care without a valid license or permit to do so issued under the authority of the State of Millbrooke; or
@@ -1188,7 +1188,7 @@ Assembly of Millbrooke
 
 115.3. Every person who commits _practice without license_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule C.
 
-**Doing business unlicensed**
+#### Doing business unlicensed
 
 116. Every person commits _doing business unlicensed_ who conducts business for himself or herself, a group, or an organization without a valid license or permit to do so issued under the authority of the State of Millbrooke.
 
@@ -1196,7 +1196,7 @@ Assembly of Millbrooke
 
 116.2. Every person who commits _doing business unlicensed_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule C.
 
-**Mishandling information**
+#### Mishandling information
 
 117. Every person mishandles information who, having in his or her possession or control any photograph, record, document, article, note, or information that is currently protected or classified under the authority of the State of Millbrooke,
 - communicates it, directly or indirectly, to in any other manner to anyone not authorized to receive said information;
@@ -1210,7 +1210,7 @@ Assembly of Millbrooke
 
 117.2. No person shall be arrested for _aggravated mishandling information_ except when such an arrest has been authorized and ordered by a warrant.
 
-**Wrongful possession of information**
+#### Wrongful possession of information
 
 118. Every person commits _wrongful possession of information_ who has in his or her possession or control any photograph, record, document, article, note, or information that
 - is currently protected or classified under the authority of the State of Millbrooke;
@@ -1223,37 +1223,37 @@ Assembly of Millbrooke
 
 ## OFFENCES OF ATTEMPTS, ACCESSORIES, AND CONSPIRACIES
 
-**Attempt felony offence**
+#### Attempt felony offence
 
 119. Every person commits _attempt felony offence_ who attempts to commit a felony offence.
 
 119.1.  Every person who commits _attempt felony offence_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Accessory to felony offence**
+#### Accessory to felony offence
 
 120. Every person commits _accessory to felony offence_ who is an accessory after the fact to the commission of a felony offence.
 
 120.1. Every person who commits _accessory to felony offence_ is guilty of a felony offence and liable to the punishment described in Schedule A.
 
-**Attempt misdemeanour offence**
+#### Attempt misdemeanour offence
 
 121. Every person commits _attempt misdemeanour offence_ who attempts to commit a misdemeanour offence.
 
 121.1. Every person who commits _attempt misdemeanour offence_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Accessory to misdemeanour offence**
+#### Accessory to misdemeanour offence
 
 122. Every person commits _accessory to misdemeanour offence_ who is an accessory after the fact to the commission of a misdemeanour offence.
 
 122.1. Every person who commits _accessory to misdemeanour offence_ is guilty of a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Conspiracies**
+#### Conspiracies
 
 123. Every person who conspires with any person to commit an offence which is not murder is guilty of,
 - if the offence is a felony offence, _conspiracy to felony offence_, a felony offence and liable to the punishment described in Schedule A;
 - if the offence is a misdemeanour offence, _conspiracy to misdemeanour offence_, a misdemeanour offence and liable to the punishment described in Schedule B.
 
-**Participation in criminal organization**
+#### Participation in criminal organization
 
 124. Every person commits _participation in criminal organization_ who, for the purpose of enhancing the ability of a criminal organization to facilitate or commit a felony offence,
 - knowingly, by act or omission, participates in or contributes to any activity of the criminal organization; or
@@ -1263,11 +1263,11 @@ Assembly of Millbrooke
 
 ## TRAFFIC REGULATIONS
 
-**Traffic infractions not criminal offence**
+#### Traffic infractions not criminal offence
 
 125. Traffic infractions are to be not deemed criminal offences.
 
-**Exemption for emergency vehicles**
+#### Exemption for emergency vehicles
 
 126. A driver of an emergency vehicle may
 - exceed the speed limit;
@@ -1275,7 +1275,7 @@ Assembly of Millbrooke
 - proceed past a red traffic control signal or stop sign without stopping; and
 - disregard rules and traffic control devices governing direction of movement or turning in specified directions.
 
-**Peace officer may move vehicle**
+#### Peace officer may move vehicle
 
 127. If a vehicle is in a position that
 - causes it to interfere with the normal flow of traffic on the roadway, or
@@ -1286,29 +1286,29 @@ Assembly of Millbrooke
 - require the driver or person in charge of the vehicle to move it, or
 - move the vehicle and cause it to be taken to a safe and otherwise suitable place.
 
-**Speed limits**
+#### Speed limits
 
 128. The applicable speed limit for any segment of roadway is that which is posted on a speed limit sign on that segment of roadway. If there is no posted speed limit the applicable speed limit is,
 - within city limits, 30 mph; and
 - elsewhere, 50 mph.
 
-**Violation tickets**
+#### Violation tickets
 
 129. Every person who contravenes any section of traffic regulations is liable to the punishment described in Schedule D which matches the heading that describes the section giving rise to said contravention.
 
-**Failure to remain at scene of accident**
+#### Failure to remain at scene of accident
 
 130. The driver or operator or any other person in charge of a vehicle that is, directly or indirectly, involved in an accident must remain at or immediately return to the scene of the accident and render all reasonable assistance.
 
-**Failure to stop for peace officer**
+#### Failure to stop for peace officer
 
 131. A peace officer may require the driver of a motor vehicle to stop and the driver of a motor vehicle, when signalled or requested to stop by a peace officer who is readily identifiable as a peace officer, must immediately come to a safe stop.
 
-**Failure to state name**
+#### Failure to state name
 
 132. When requested by a peace officer, the driver of a motor vehicle or the person in charge of a motor vehicle must state correctly his or her username.
 
-**Failure to obey peace officer direction**
+#### Failure to obey peace officer direction
 
 133. If a peace officer reasonably considers it necessary to
 - ensure orderly movement of traffic,
@@ -1317,85 +1317,85 @@ Assembly of Millbrooke
 
   the peace officer may direct traffic according to his or her discretion, and everyone must obey his or her directions.
 
-**Failure to obey traffic control device**
+#### Failure to obey traffic control device
 
 134. Unless otherwise directed by a peace officer or a person authorized by a peace officer to direct traffic, every driver of a vehicle and every pedestrian must obey the instructions of an applicable traffic control device.
 
-**Failure to yield to pedestrian at intersection**
+#### Failure to yield to pedestrian at intersection
 
 135. When a green light is exhibited by a traffic control signal, the driver of a vehicle facing the green light must yield the right of way to pedestrians lawfully in the intersection before causing the vehicle to proceed into the intersection.
 
-**Failure to yield to vehicle**
+#### Failure to yield to vehicle
 
 136. When a green light is exhibited by a traffic control signal, the driver of a vehicle facing the green light must yield the right of way to vehicles lawfully in the intersection before causing the vehicle to proceed into the intersection.
 
-**Failure to stop for yellow light**
+#### Failure to stop for yellow light
 
 137. When a yellow light is exhibited by a traffic control signal, the driver of a vehicle approaching the signal must cause the vehicle to stop before entering the intersection unless the stop cannot be made safely.
 
-**Failure to stop for red light**
+#### Failure to stop for red light
 
 138. When a red light is exhibited by a traffic control signal, the driver of a vehicle approaching the signal must cause the vehicle to stop before entering the intersection.
 
-**Failure to yield as a pedestrian**
+#### Failure to yield as a pedestrian
 
 139. When a red light is exhibited by a traffic control signal, a pedestrian approaching the signal must yield the right of way to vehicles lawfully in the intersection.
 
-**Failure to obey lane direction control signal**
+#### Failure to obey lane direction control signal
 
 140. Where lane direction control signals are placed over individual lanes of a roadway, vehicular traffic may travel in a lane over which a green signal is shown, but must not enter or travel on a lane over which a red signal is shown. Vehicular traffic travelling in a lane over which a yellow signal is shown must safely and promptly move into a lane over which a green signal is shown.
 
-**Failure to obey roadside worker**
+#### Failure to obey roadside worker
 
 141. If a roadside worker is controlling the movements of traffic around the section of roadway that is closed to traffic, a person must not drive or operate a vehicle other than as directed by the roadside worker.
 
-**Drive without due care**
+#### Drive without due care
 
 142. A person must not drive a motor vehicle on a roadway
 - without due care and attention, or
 - without reasonable consideration for other persons using the roadway.
 
-**Impeding traffic**
+#### Impeding traffic
 
 143. A person must not drive a motor vehicle at so slow a speed as to impede or block the normal and reasonable movement of traffic or by stopping it on a roadway, except when it is necessary for safe operation or in compliance with law.
 
-**Speeding**
+#### Speeding
 
 144. A person must not drive or operate a motor vehicle on a roadway at a speed greater than the applicable speed limit.
 
-**Dangerous speeding**
+#### Dangerous speeding
 
 145. A person who drives or operates a motor vehicle on a roadway at a speed greater than 20 mph over the applicable speed limit is liable to increased fines for excessive speed.
 
-**Improper lane change**
+#### Improper lane change
 
 146. A person must not drive a vehicle from one lane to another unless the driver has ascertained that movement can be made with safety and will in no way affect the travel of another vehicle.
 
-**Failure to keep right of line**
+#### Failure to keep right of line
 
 147. The driver of a vehicle must drive the vehicle to the right of the line at the centre of a roadway, except when passing.
 
-**Following too closely**
+#### Following too closely
 
 148. A driver of a vehicle must not cause or permit the vehicle to follow another vehicle more closely than is reasonable and prudent, having due regard for the speed of the vehicles and the amount and nature of traffic on and the condition of the roadway.
 
-**Improper turn**
+#### Improper turn
 
 149. If at an intersection there is a traffic control device indicating the course to be travelled by vehicles turning at the intersection, a driver must turn a vehicle at the intersection in the manner directed by the traffic control device.
 
-**Failure to indicate**
+#### Failure to indicate
 
 150. If traffic may be affected by turning a vehicle, a person must not turn it without giving the appropriate signal.
 
-**Failure to yield for emergency vehicle**
+#### Failure to yield for emergency vehicle
 
 151. On the immediate approach of an emergency vehicle giving an audible signal by a bell, siren, or exhaust whistle, and showing a visible flashing red light, except when otherwise directed by a peace officer, a driver must yield the right of way, and immediately drive to a position as close as possible to the nearest edge or curb of the roadway, clear of an intersection, and stop and remain in that position until the emergency vehicle has passed.
 
-**Running a stop sign**
+#### Running a stop sign
 
 152. Except when a peace officer directs otherwise, if there is a stop sign at an intersection, a driver of a vehicle must stop before entering the intersection.
 
-**Illegal parking**
+#### Illegal parking
 
 153. Every person commits illegal parking who, except when necessary to avoid conflict with traffic or to comply with the law or the directions of a peace officer or traffic control device, parks their motor vehicle
 - in such a manner that it takes up more than one designated parking space;
@@ -1404,11 +1404,11 @@ Assembly of Millbrooke
 - in a place restricted to certain vehicles as indicated by a traffic control device, when their motor vehicle is not one of those permitted to park in said place; or
 - within 15 feet of a fire hydrant.
 
-**Driving on sidewalk**
+#### Driving on sidewalk
 
 154. A driver must not drive on a sidewalk or walkway, except when entering or leaving a driveway or lane or when entering or leaving land adjacent to a roadway.
 
-**Operate vehicle while person riding on vehicle**
+#### Operate vehicle while person riding on vehicle
 
 155. A person must not drive or operate a vehicle on a roadway if there is a person riding on the vehicle.
 
@@ -1418,9 +1418,9 @@ Assembly of Millbrooke
 
 ## SCHEDULE A
 
-**Terms of imprisonment for felony offences**
+#### Terms of imprisonment for felony offences
 
-| **Offence** | **Imprisonment (seconds)** |
+| **Offence**  | **Imprisonment (minutes)**  |
 | --- | --- |
 | Treason |     |
 | Intimidating government |     |
@@ -1468,9 +1468,9 @@ Assembly of Millbrooke
 
 ## SCHEDULE B
 
-**Terms of imprisonment and fines for misdemeanour offences**
+#### Terms of imprisonment and fines for misdemeanour offences
 
-| **Offence** | **Imprisonment (seconds)** | **Fine ($)** |
+| **Offence**  | **Imprisonment (minutes)**  | **Fine ($)**  |
 | --- | --- | --- |
 | Rioting |     |     |
 | Careless use of firearm |     |     |
@@ -1543,9 +1543,9 @@ Assembly of Millbrooke
 
 ## SCHEDULE C
 
-**Terms of imprisonment and fines for other lesser misdemeanour offences**
+#### Terms of imprisonment and fines for other lesser misdemeanour offences
 
-| **Offence** | **Imprisonment (seconds)** | **Fine ($)** |
+| **Offence**  | **Imprisonment (minutes)**  | **Fine ($)**  |
 | --- | --- | --- |
 | Participation in an unlawful assembly |     |     |
 | Personating security |     |     |
@@ -1559,9 +1559,9 @@ Assembly of Millbrooke
 
 ## SCHEDULE D
 
-**Fines for traffic infractions**
+#### Fines for traffic infractions
 
-| **Contravention** | **Fine ($)** |
+| Contravention | Fine ($)|
 | --- | --- |
 | Failure to remain at scene of accident |     |
 | Failure to stop for peace officer |     |
@@ -1592,9 +1592,9 @@ Assembly of Millbrooke
 
 ## SCHEDULE E
 
-**Non-restricted firearms**
+#### Non-restricted firearms
 
-| **Name of firearm** | **Common name (if applicable)** |
+| **Name of firearm**  | **Common name (if applicable)**  |
 | --- | --- |
 | List here firearms which players can possess as long as they have a license |     |
 |  ...   |     |
@@ -1603,7 +1603,7 @@ Assembly of Millbrooke
 
 ## SCHEDULE F
 
-**Restricted firearms**
+#### Restricted firearms
 
 | **Name of firearm** | **Common name (if applicable)** |
 | --- | --- |
@@ -1614,7 +1614,7 @@ Assembly of Millbrooke
 
 ## SCHEDULE G
 
-**Prohibited firearms**
+#### Prohibited firearms
 
 | **Name of firearm** | **Common name (if applicable)** |
 | --- | --- |
@@ -1625,11 +1625,12 @@ Assembly of Millbrooke
 
 ## SCHEDULE H
 
-**Regulated ammunition**
+#### Regulated ammunition
 
-| **Name of ammunition** | **Common name (if applicable)** |
+| **Name of ammunition**  | **Common name (if applicable)**  |
 | --- | --- |
 | ...    |     |
 |  ...   |     |
 |  ...   |     |
 
+---
