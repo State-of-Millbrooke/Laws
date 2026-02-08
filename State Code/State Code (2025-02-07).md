@@ -3,7 +3,7 @@
 <div align="center">
 
 <b><i>
-Legislative Assembly of Millbrooke
+Assembly of Millbrooke
 </b></i>
 
 <h1>State Code</h1>
