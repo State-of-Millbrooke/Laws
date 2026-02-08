@@ -16,6 +16,7 @@ Assembly of Millbrooke
 
 ## AMENDMENT
 
-1. Section 3 of the *Example Act* is repealed.
+1. Section 1 of the *Example Act* is amended to read "Section 1 hello world."
+2. Section 3 of the *Example Act* is repealed.
 
 ---
