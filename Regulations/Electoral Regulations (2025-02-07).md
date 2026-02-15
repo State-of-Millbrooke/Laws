@@ -73,7 +73,7 @@ Office of the Chief Electoral Officer
 
 #### Withdrawal of candidate
 
-10.	At any time up until 24 hours before the start of voting, a candidate may withdraw from the election by contacting the chief electoral officer.
+10.	At any time up until 24 hours before the start of voting, a candidate may withdraw from the election by contacting the Chief Electoral Officer.
 
 ## VOTING
 
@@ -120,7 +120,7 @@ Office of the Chief Electoral Officer
 - during the nomination period, and
 - during the campaign period.
 
-25.	A candidate, a candidate's staff, and a political party must not campaign for or against a candidate or a political party outside of the campaign hours established by the chief electoral officer.
+25.	A candidate, a candidate's staff, and a political party must not campaign for or against a candidate or a political party outside of the campaign hours established by the Chief Electoral Officer.
 
 #### Political advertising authorization
 
@@ -160,16 +160,16 @@ Office of the Chief Electoral Officer
 #### Enforcement
 
 33.	The enforcement of these Regulations and relevant electoral laws is the duty of the Chief Electoral Officer.
-34.	The Chief Electoral Officer  may use the following mechanisms to enforce these Regulations and relevant electoral laws:
+34.	The Chief Electoral Officer may use the following mechanisms to enforce these Regulations and relevant electoral laws:
 - issuance of a notice of contravention to the individual in violation,
-- imposition of limitations on the individual in violation for the current election,
-- disqualification of the individual in violation from candidacy in the current election,
+- imposition of limitations on the individual in violation for the duration of an election,
+- disqualification of the individual in violation from candidacy in an election,
 - order that the individual in violation be disqualified from public office, and
 - referral of the offence to the Attorney General for criminal prosecution.
 
 #### Appeal
 
-35.	The Senate may hear and adjudicate appeals arising out of the decision or adjudication of the Chief Electoral Officer.
+35.	The Supreme Court may hear and adjudicate appeals arising out of the decision or adjudication of the Chief Electoral Officer.
 
 #### Vote buying
 
@@ -214,7 +214,6 @@ Office of the Chief Electoral Officer
 
 #### Offences in relation to the administration of elections
 
-
 46.	An individual must not impede or obstruct the Chief Electoral Officer, or any person acting on his or her direction, in performing duties and exercising powers under these Regulations, the Constitution, or other electoral laws.
 
 #### False or misleading information
@@ -245,7 +244,7 @@ Office of the Chief Electoral Officer
 
 56.	Only an individual's primary account may be a candidate or act as staff for a candidate.
 57.	Upon the request of the Chief Electoral Officer, an individual who has nominated themselves to be a candidate, is a candidate, or is staff for a candidate must demonstrate to the Chief Electoral Officer that they are using their primary account.
-58.	Where the Chief Electoral Officer has made a lawful request under this Regulation, received an adequate response, but is still not satisfied that an individual is in fact using their primary account, he or she may request advice from the Attorney General.
+58.	Where the Chief Electoral Officer has made a lawful request under this Regulation, received an adequate response, but is still not satisfied that an individual is in fact using their primary account, he or she may request advice from the Housing Authority.
 59.	If an individual, upon being served a lawful request under this Regulation by the Chief Electoral Officer, fails to respond or refuses to demonstrate they are in compliance with this Regulation, that individual forfeits being a nominee to be a candidate, a candidate, or staff for a candidate, as the case might be.
 60.	An individual is deemed to have failed to produce a response if they do not respond within 48 hours of a lawful request under this Regulation.
 
