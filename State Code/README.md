@@ -157,15 +157,7 @@ Assembly of Millbrooke
 
 #### Compulsion by threats
 
-12. A person who commits an offence under compulsion by threats of immediate death or bodily harm from a person who is present when the offence is committed is excused for committing the offence if the person believes that the threats will be carried out and if the person is not a party to a conspiracy or association whereby the person is subject to compulsion, except where the offence that is committed is
-- treason,
-- murder,
-- attempted murder,
-- kidnapping,
-- robbery,
-- aggravated assault,
-- unlawfully causing bodily harm, or
-- arson.
+12. A person who commits an offence under compulsion by threats of immediate death or bodily harm from a person who is present when the offence is committed is excused for committing the offence if the person believes that the threats will be carried out and if the person is not a party to a conspiracy or association whereby the person is subject to compulsion, except where the offence that is committed is a felony offence in Schedule A.
 
 #### Consent to death
 
@@ -473,12 +465,12 @@ Assembly of Millbrooke
 #### Bribery in judicial proceedings
 
 42. Every person commits _bribery in judicial proceedings_ who,
-- where the person is a judge, justice, master or justice of the peace, directly or indirectly, accepts, obtains or agrees to accept or attempts to obtain, money or any other form of personal inducement in respect to an official action taken or not taken in their official capacity;
+- where the person is a judge or justice, directly or indirectly, accepts, obtains or agrees to accept or attempts to obtain, money or any other form of personal inducement in respect to an official action taken or not taken in their official capacity;
 - where the person is a witness in a judicial proceeding, directly or indirectly, accepts, obtains, or agrees to accept or attempts to obtain, money or any other personal inducement in respect to testimony or other sworn statements of the witness;
 - where the person is a juror in a judicial proceeding, directly or indirectly, accepts, obtains, or agrees to accept or attempts to obtain, money or any other personal inducement in respect to the judicial function of the juror;
 - corruptly gives, offers, procures, or causes to be given, offered or procured to any judge, justice, master or justice of the peace, money or any other form of personal inducement in respect to an official action taken or not taken in their official capacity;
 - corruptly gives, offers, procures, or causes to be given, offered or procured to any witness, money or any other form of personal inducement in respect to testimony or other sworn statements of the witness; or
-- corruptly gives, offers, procures, or causes to be given, offered or procured to any witness, money or any other form of personal inducement in respect to the judicial function of the juror.
+- corruptly gives, offers, procures, or causes to be given, offered or procured to any juror, money or any other form of personal inducement in respect to the judicial function of the juror.
 
 42.1. No person shall be arrested for this offence except when such an arrest has been authorized and ordered by a warrant.
 
