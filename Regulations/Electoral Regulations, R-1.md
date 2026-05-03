@@ -6,6 +6,8 @@ Office of the Chief Electoral Officer
 
 <h1>Electoral Regulations of the State of Millbrooke</h1>
 
+*Chapter 1, Regulations of Millbrooke*
+
 **Effective 7 February 2026**
   
 </div align="center">
