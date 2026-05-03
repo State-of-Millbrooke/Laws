@@ -679,8 +679,8 @@ Assembly of Millbrooke
 64. Every person fails to pay a fine who, having been issued a fine by a peace officer, a court, or a judge, fails to pay the amount owed within the delay prescribed.
 
 64.1. Every person who fails to pay a fine is guilty of,
-- if the amount outstanding exceeds $5000, _failure to pay exceeding fine_, a misdemeanour offence and liable to the punishment described in Schedule B; or
-- if the amount outstanding does not exceed $5000, _failure to pay fine_, a misdemeanour offence and liable to the punishment described in Schedule C.
+- if the amount outstanding exceeds $2000, _failure to pay exceeding fine_, a misdemeanour offence and liable to the punishment described in Schedule B; or
+- if the amount outstanding does not exceed $2000, _failure to pay fine_, a misdemeanour offence and liable to the punishment described in Schedule C.
 
 64.2. Any amount that is in dispute is to be subtracted when calculating the amount outstanding.
  
@@ -993,9 +993,9 @@ Assembly of Millbrooke
 97.2. A taking or conversion of anything may be fraudulent notwithstanding that it is effected without secrecy or attempt at concealment.
 
 97.3. Every person who commits theft is guilty of,
-- if the value of what is stolen is more than $5000, _theft over_, a felony offence and liable to the punishment described in Schedule A;
+- if the value of what is stolen is more than $2000, _theft over_, a felony offence and liable to the punishment described in Schedule A;
 - if the property stolen is government or public property, regardless of value, _government property theft_, a felony offence and liable to the punishment described in Schedule A;
-- if the value of what is stolen is not more than $5000, _theft under_, a misdemeanour offence and liable to the punishment described in Schedule B; or
+- if the value of what is stolen is not more than $2000, _theft under_, a misdemeanour offence and liable to the punishment described in Schedule B; or
 - if the property stolen is a motor vehicle, regardless of value, _motor vehicle theft_, a misdemeanour offence and liable to the punishment described in Schedule B.
 
 #### Fraudulent concealment
@@ -1069,18 +1069,18 @@ Assembly of Millbrooke
 106.1. A peace officer or a person acting under the direction of a peace officer is not guilty of this offence by reason only that the peace officer or person possesses property or a thing or the proceeds of property or a thing mentioned in above for the purposes of an investigation or otherwise in the execution of the peace officer's duties.
 
 106.2. Every person who is in possession of property obtained by crime is guilty of,
-- if the value of what is possessed is more than $5000, _possession of exceeding property obtained by crime_, a felony offence and liable to the punishment described in Schedule A;
+- if the value of what is possessed is more than $2000, _possession of exceeding property obtained by crime_, a felony offence and liable to the punishment described in Schedule A;
 - if the property that is possessed is government or public property, regardless of value, _possession of exceeding property obtained by crime_, a felony offence and liable to the punishment described in Schedule A;
-- if the value of what is possessed is not more than $5000, _possession of property obtained by crime_, a misdemeanour offence and liable to the punishment described in Schedule B.
+- if the value of what is possessed is not more than $2000, _possession of property obtained by crime_, a misdemeanour offence and liable to the punishment described in Schedule B.
 
 #### Trafficking property obtained by crime
 
 107. Every person traffics property obtained by crime who traffics any property or thing or any proceeds of any property or thing knowing that all or part of the property, thing, or proceeds was obtained by or derived directly or indirectly from an offence.
 
 107.1. Every person who traffics property obtained by crime is guilty of,
-- if the value of what is trafficked is more than \$5000, _trafficking exceeding property obtained by crime_, a felony offence and liable to the punishment described in Schedule A;
+- if the value of what is trafficked is more than \$2000, _trafficking exceeding property obtained by crime_, a felony offence and liable to the punishment described in Schedule A;
 - if the property that is trafficked is government or public property, regardless of value, _trafficking exceeding property obtained by crime_, a felony offence and liable to the punishment described in Schedule A;
-- if the value of what is trafficked is not more than \$5000, _trafficking property obtained by crime_, a misdemeanour offence and liable to the punishment described in Schedule B.
+- if the value of what is trafficked is not more than \$2000, _trafficking property obtained by crime_, a misdemeanour offence and liable to the punishment described in Schedule B.
 
 #### Forgery
 
@@ -1129,8 +1129,8 @@ Assembly of Millbrooke
 
 111.1. Every person who commits mischief is guilty of,
 - if the mischief causes actual danger to life, _mischief endangering life_, a felony offence and liable to the punishment described in Schedule A;
-- if the mischief is committed in relation to property with a value which exceeds $5000, _mischief of exceeding value_, a felony offence and liable to the punishment described in Schedule A; or
-- if the mischief is committed in relation to property with a value which does not exceed $5000, _mischief_, a misdemeanour offence and liable to the punishment described in Schedule B.
+- if the mischief is committed in relation to property with a value which exceeds $2000, _mischief of exceeding value_, a felony offence and liable to the punishment described in Schedule A; or
+- if the mischief is committed in relation to property with a value which does not exceed $2000, _mischief_, a misdemeanour offence and liable to the punishment described in Schedule B.
 
 #### Arsons
 
@@ -1625,4 +1625,3 @@ Assembly of Millbrooke
 |  ...   |     |
 |  ...   |     |
 
----
