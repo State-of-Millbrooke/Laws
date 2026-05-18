@@ -199,14 +199,13 @@ Executive Council
 45.	An employee may be terminated for inactivity where the employee has been on performance management under section 26 for at least 30 days within the last 60 days, remains on performance management for that reason, and has not made an appreciable effort to resolve the issue.
 46.	An employee may be terminated for unsatisfactory performance where the employee has been on performance management under section 25 or 27, or a combination thereof, for at least 30 days within the last 60 days, remains on performance management for that reason, and has not made an appreciable effort to resolve the issue.
 47.	An employee may be terminated for misconduct where the employee has engaged in two or more instances of misconduct or continuing misconduct within the last 6 months for which the employee received disciplinary action.
-48.	An employee may be terminated for serious misconduct where the employee has engaged in serious misconduct for which the employee could have received disciplinary action.
+48.	An employee may be terminated for serious misconduct where the employee has engaged in serious misconduct for which the employee could have received disciplinary action. Misconduct may qualify as serious misconduct:
 
--	Misconduct may qualify as serious misconduct:
-  - Where the conduct significantly erodes the public confidence in the department or the public service;
-  - Where the conduct is characterized by multiple aggravating factors which are not mitigated;
-  - Where the employee has deliberately acted in bad faith;
-  - Where it is demonstrable that the employee is likely to reoffend; or 
-  - Where there is a particularly strong need to denounce the misconduct and deter others from engaging in similar misconduct; 
+- Where the conduct significantly erodes the public confidence in the department or the public service;
+- Where the conduct is characterized by multiple aggravating factors which are not mitigated;
+- Where the employee has deliberately acted in bad faith;
+- Where it is demonstrable that the employee is likely to reoffend; or 
+- Where there is a particularly strong need to denounce the misconduct and deter others from engaging in similar misconduct; 
 
 49.	An employee may be terminated for criminality where, on a balance of probabilities, the employee has committed a misdemeanour or felony offence, whether or not the employee has been arrested, charged, or convicted of an offence.
 50.	An employee may be terminated for default of conditions of employment where the employee no longer meets one or more conditions of employment, has been notified by the department head of the default, has been given at least 5 days to remediate the default, and has not made an appreciable effort to remediate the default.
