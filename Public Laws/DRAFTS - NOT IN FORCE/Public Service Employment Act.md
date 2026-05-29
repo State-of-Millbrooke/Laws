@@ -91,9 +91,8 @@ Executive Council
 - Administrative or civil monetary penalties in the last 6 months;
 - Terminations from the public service in the last 2 years;
 - Disciplinary actions issued in the last 6 months;
-- Ongoing performance management;
-- Residency in the State of Millbrooke; or
-- Eligibility to receive a security status or clearance.
+- Ongoing performance management; or
+- Residency in the State of Millbrooke.
 
 22.	A department head who eliminates a candidate for not satisfying one or more conditions of employment must notify the applicant of each of the grounds therefor as soon as possible and keep a dated record of the same.
 
@@ -170,6 +169,10 @@ Executive Council
 
 37.	A department head may administer the following measures as disciplinary action, or a combination thereof:
 
+- Direction to undergo training;
+- Direction to participate in a specific program or activity;
+- Direction to complete written work;
+- Close supervision;
 - Formal warning or reprimand;
 - Permanent reassignment or involuntary transfer to another work unit; 
 - Removal, restriction, or modification of duties for up to 6 months;
@@ -299,7 +302,7 @@ Executive Council
 - There were attempts to minimise the number of affected positions;
 - There has been a good faith effort to identify alternate work for employees occupying affected positions;
 - The use of the workforce adjustment process does not constitute disguised discipline, whether intentional or not; and
-- On the whole, the use of workforce adjustment to issue involuntary departures would not unjust.
+- On the whole, the use of workforce adjustment to issue involuntary departures would not be unjust.
 
 80.	At the conclusion of an administrative proceeding for workforce adjustment, the Public Service Staffing Tribunal may do any of the following:
 
