@@ -24,7 +24,7 @@ Assembly of Millbrooke
 - “employee” means a person employed in the public service and includes employees under training;
 - “employee under training” means an employee occupying the first hierarchical level in a department who is undergoing a training, apprenticeship, or developmental program in that department;
 - “hierarchical level” means each distinct rank or level at which an employee may be employed or appointed and includes only those which the Developers have provided a department with;
-- “interim measures” means the certain measures taken in the interim to minimise the risk to the department while the department head deals with misconduct;
+- “interim measures” means the certain measures taken in the interim to minimise the risk to the department while the department head deals with the misconduct or alleged misconduct of an employee;
 - “involuntary separation” means the dismissal of an employee as the result of an approved workforce adjustment process;
 - “misconduct” means intentional, careless, or reckless conduct in breach of written policies or this Act or conduct that is abusive or corrupt;
 - “peace officer” has the same meaning as in the *State Code*;
@@ -93,7 +93,7 @@ Assembly of Millbrooke
 #### Hiring conditions
 
 27.	A department head may prescribe hiring conditions for a selection process independently of the merit of an applicant, the quality of an application, or the qualifications of an applicant.
-28.	A condition of employment may only extend to the following:
+28.	A hiring condition may only extend to the following:
 
 - Convictions in the last 10 years;
 - Arrests in the last 2 years and for which a pardon or record suspension has not been granted;
@@ -273,9 +273,9 @@ Assembly of Millbrooke
 
 - For the purposes of this section, in a termination for criminality except where mandatory termination under this Act applies, the earliest of the following dates apply:
   - Date of the misconduct;
-  - Date oof the arrest;
-  - Date oof the laying of the charges; and
-  - Date oof conviction or sentencing.
+  - Date of the arrest;
+  - Date of the laying of the charges; and
+  - Date of conviction or sentencing.
 
 68.	Any records of terminations in respect of an employee must be destroyed 2 years after it was issued.
 69.	The department head must ensure proportionality, procedural fairness, and consistency in administering disciplinary actions.
