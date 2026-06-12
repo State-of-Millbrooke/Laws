@@ -531,7 +531,7 @@ Assembly of Millbrooke
 
 48. Every person who, without lawful excuse, disobeys a lawful order made by a court or judge is, unless a punishment or other mode of proceeding is expressly provided by law, guilty of _disobeying order of court_.
 
-48.1. The common law powers and any powers prescribed in the Constitution of judges to punish for contempt of court are not affected by this section.
+48.1. The common law powers and any powers prescribed in the [Constitution]( https://github.com/State-of-Millbrooke/Laws/tree/main/Constitution) of judges to punish for contempt of court are not affected by this section.
 
 48.2. No person shall be arrested for this offence except when such an arrest has been authorized and ordered by a warrant or pre-authorized by a judge.
 
