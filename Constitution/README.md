@@ -517,7 +517,7 @@ I understand and accept the responsibility entrusted to me to exercise my functi
 
 194.	The Assembly may adopt articles of impeachment against an official subject to impeachment who, in its opinion:
 - is inactive,
-- has been convicted of a felony or misdemeanour offence under the _State Code_,
+- has been convicted of a felony or misdemeanour offence under the [*State Code*](https://github.com/State-of-Millbrooke/Laws/tree/main/State%20Code),
 - exhibits corruption or malfeasance,
 - neglects his or her duties, or
 - conducts himself or herself in a manner unbecoming of his or her office.
