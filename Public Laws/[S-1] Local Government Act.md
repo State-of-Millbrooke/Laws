@@ -277,7 +277,7 @@ I understand and accept the responsibility entrusted to me to exercise my functi
 
 83.	A Council may grant a leave of absence by resolution to a member of the Council on the request of that member for any reason it deems appropriate.
 
-84.	A member of a Council who is charged with a misdemeanour or felony offence under the _State Code_ is deemed to be on a leave of absence for the period beginning on the date of the charge, summons, or undertaking and ending:
+84.	A member of a Council who is charged with a misdemeanour or felony offence under the [*State Code*](https://github.com/State-of-Millbrooke/Laws/tree/main/State%20Code) is deemed to be on a leave of absence for the period beginning on the date of the charge, summons, or undertaking and ending:
 -	if the member is acquitted of the offence, on the day after the date of the acquittal;
 -	if the member is convicted of the offence, on the date of the conviction;
 -	if the member is discharged of the offence, on the day after the date of the discharge;
@@ -315,7 +315,7 @@ I understand and accept the responsibility entrusted to me to exercise my functi
 
 #### Qualifications 
 
-91.	The same qualifications to be elector under the Constitution applies to general local elections.
+91.	The same qualifications to be elector under the [Constitution]( https://github.com/State-of-Millbrooke/Laws/tree/main/Constitution) applies to general local elections.
 92.	Only an individual’s primary account may be a candidate or act as staff for a candidate.
 
 #### Arrangement for local general elections
