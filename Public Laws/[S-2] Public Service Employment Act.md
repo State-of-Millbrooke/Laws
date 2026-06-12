@@ -27,7 +27,7 @@ Assembly of Millbrooke
 - “interim measures” means the certain measures taken in the interim to minimise the risk to the department while the department head deals with the misconduct or alleged misconduct of an employee;
 - “involuntary separation” means the dismissal of an employee as the result of an approved workforce adjustment process;
 - “misconduct” means intentional, careless, or reckless conduct in breach of written policies or this Act or conduct that is abusive or corrupt;
-- “peace officer” has the same meaning as in the *State Code*;
+- “peace officer” has the same meaning as in the [*State Code*](https://github.com/State-of-Millbrooke/Laws/tree/main/State%20Code);
 - “performance management” means a process intended to address an inability to perform the duties of one’s position to a reasonable standard;
 - “public service” includes the departments named in Column A in each of the Schedules to this Act;
 - “selection process” means a process in which persons may be considered for employment in the public service, including internal processes for lateral moves, intra-departmental transfers, inter-departmental transfers, and promotions;
@@ -37,7 +37,7 @@ Assembly of Millbrooke
 - “workforce adjustment" means the process for issuing involuntary separations due to lack of work, the discontinuance of a function, or a restructuring in a department.
 
 2.	Except as provided in this Act, applicants in a selection process and employees must not be discriminated against on the sole basis that they are employed in another department.
-3.	The provisions of the *Employment Standards Act* apply to the public service.
+3.	The provisions of the [*Employment Standards Act*](https://github.com/State-of-Millbrooke/Laws/blob/main/Public%20Laws/%5BS-4%5D%20Employment%20Standards%20Act.md) apply to the public service.
 4.	A person with delegated authority under this Act may not sub-delegate that authority unless the department head who delegated that authority consents to a sub-delegation in writing.
 
 ## EMPLOYMENT RESTRICTIONS
@@ -264,7 +264,7 @@ Assembly of Millbrooke
 - Where it is demonstrable that the employee is likely to reoffend; or 
 - Where there is a particularly strong need to denounce the misconduct and deter others from engaging in similar misconduct; 
 
-65.	An employee may be terminated for criminality where it appears that, on a balance of probabilities, the employee has committed a misdemeanour or felony offence under the _State Code_, whether or not the employee has been arrested, charged, or convicted of an offence.
+65.	An employee may be terminated for criminality where it appears that, on a balance of probabilities, the employee has committed a misdemeanour or felony offence under the [*State Code*](https://github.com/State-of-Millbrooke/Laws/tree/main/State%20Code), whether or not the employee has been arrested, charged, or convicted of an offence.
 
 #### Authorized measures
 
@@ -285,7 +285,7 @@ Assembly of Millbrooke
 
 71.	A department head must terminate an employee who is no longer a resident of the State of Millbrooke or whose residency status has been revoked by the Housing Authority.
 72.	A department head must terminate an employee whose account has been permanently banned from any Roblox experiences or Discord servers related to the State of Millbrooke by a Developer or a delegate.
-73.	A department head must terminate an employee who is sentenced to a term of imprisonment of any length as the result of being convicted of a misdemeanour or felony offence under the _State Code_.
+73.	A department head must terminate an employee who is sentenced to a term of imprisonment of any length as the result of being convicted of a misdemeanour or felony offence under the [*State Code*](https://github.com/State-of-Millbrooke/Laws/tree/main/State%20Code).
 
 #### Deemed termination 
 
@@ -372,8 +372,8 @@ Assembly of Millbrooke
 ## REMEDY AND ENFORCEMENT
 
 96.	Anyone whose rights, as provided in this Act, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.
-97.	The Attorney General’s oversight and inquiry authority under the Constitution extends to the public service in respect of this Act.
-98.	Every person who contravenes this Act is guilty of Disobeying a statute under section 47 of the *State Code*.
+97.	The Attorney General’s oversight and inquiry authority under the [Constitution]( https://github.com/State-of-Millbrooke/Laws/tree/main/Constitution) extends to the public service in respect of this Act.
+98.	Every person who contravenes this Act is guilty of Disobeying a statute under section 47 of the [*State Code*](https://github.com/State-of-Millbrooke/Laws/tree/main/State%20Code).
 
 ---
 
