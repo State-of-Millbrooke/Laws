@@ -61,7 +61,7 @@ Assembly of Millbrooke
 
 #### Offence
 
-9.	Every person who contravenes this Act is guilty of Disobeying a statute under section 47 of the *State Code*.
+9.	Every person who contravenes this Act is guilty of Disobeying a statute under section 47 of the [*State Code*](https://github.com/State-of-Millbrooke/Laws/tree/main/State%20Code).
 
 #### Powers of Attorney General
 
