@@ -411,11 +411,11 @@ Assembly of Millbrooke
 159.	A general election must be held to elect the following officials:
 - the members of the Assembly, no later than 6 months following the previous general election for that office;
 - the Governor, no later than 6 months following the previous general election for that office; 
-- the Attorney General, no later than 4 months following the previous general election for that office; and
+- the Attorney General, no later than 6 months following the previous general election for that office; and
 - any other elected official, at the interval prescribed by law.
 
 160.	A writ of election by the Chief Electoral Officer may initiate a special election if there is a vacancy in any elected office; and a special election must be initiated if the vacancy is the result of a successful recall petition.
-161.	When a writ of election for a general election has been issued for the seats in the Assembly, the Assembly stands dissolved and every member of the Assembly, including the Speaker, ceases to hold office.
+161.	When a writ of election for a general election has been issued for the seats in the Assembly, the Assembly stands dissolved and every member of the Assembly, not including the Speaker, ceases to hold office.
 162.	When a writ of election for a general election has been issued in respect of an office other than the seats in the Assembly, the office up for election is not vacated.
 
 #### Recall procedures
