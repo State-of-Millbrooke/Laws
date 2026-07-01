@@ -346,12 +346,12 @@ Assembly of Millbrooke
 
 #### Entrenched
 
-135.	There shall be a Law Enforcement Academy responsible for law enforcement training and the regulation of law enforcement standards.
+135.	There shall be a Law Enforcement Academy, of which a Director is the department head, responsible for law enforcement training and the regulation of law enforcement standards.
 136.	It is recognized and declared that, given the integral role of a Law Enforcement Academy, it may not be abolished other than by amending the Constitution, but its duties and powers may be further prescribed by law.
 
 #### Director
 
-137.	The Developers may appoint a Director of the Law Enforcement Academy; unless otherwise ordered, the appointment is for life.
+137.	The Governor may nominate a person who appears fit to the Governor for approval by the Assembly for the position of Director.
 138.	The Director may enact regulations, determine the policies, and provide for the good administration of the Law Enforcement Academy, including with respect to any of the following:
 -	the granting, suspension, and revocation of certifications;
 -	staffing;
