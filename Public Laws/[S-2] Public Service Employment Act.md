@@ -9,6 +9,8 @@ Assembly of Millbrooke
 *Chapter 2, Statutes of Millbrooke*
 
 **Enacted 5 June 2026**
+<br>**Amended 30 June 2026**
+
   
 </div align="center">
 
@@ -101,7 +103,9 @@ Assembly of Millbrooke
 - Administrative or civil monetary penalties in the last 6 months;
 - Terminations from the public service in the last 2 years;
 - Disciplinary actions issued in the last 6 months;
-- Ongoing performance management; or
+- Ongoing performance management; 
+- Unresolved moderation action; 
+- Moderation history; or
 - Residency in the State of Millbrooke.
 
 29.	A department head who eliminates a candidate for not satisfying one or more hiring conditions must notify the applicant of each of the grounds therefor as soon as possible and keep a dated record of the same.
@@ -324,20 +328,36 @@ Assembly of Millbrooke
 
 #### Composition
 
-86.	The Public Service Staffing Tribunal is comprised of the Chief Judge and judges appointed to the Public Service Staffing Tribunal by the Chief Judge.
+86.	The Public Service Staffing Tribunal is comprised of:
+
+-	the Chief Judge, or a judge assigned by the Chief Judge; and 
+-	up to 4 tribunal members nominated by the Governor, subject to approval by the Assembly.
+
+#### Rules of procedure
+
+87.	The Public Service Staffing Tribunal may determine its own rules of procedure with respect to the manner and form in which matters and proceedings with the Tribunal may be filed or referred, proceed, and be disposed of, and the rules of procedure of the Tribunal must give effect to anything in this Act governing the Tribunal and its matters and proceedings.
+
+#### Procedural requirements
+
+88.	The Public Service Staffing Tribunal is bound by the rules of procedural fairness applicable to administrative tribunals at common law at all stages in all its proceedings, and must generally afford each party having interest in a matter to be heard in respect of that matter.
+89.	An adjudication or order of the Public Service Staffing Tribunal in a matter is valid only when it is supported by a majority of the members of the Tribunal hearing that matter.
+
+#### Standard of proof
+
+90.	The standard of proof in proceedings before the Public Service Staffing Tribunal is a balance of probabilities.
 
 #### Administrative proceeding for misconduct
 
-87.	A department head or the Attorney General may refer a case of alleged misconduct or misconduct to the Public Service Staffing Tribunal for adjudication if the department head or Attorney General:
+91.	A department head or the Attorney General may refer a case of alleged misconduct or misconduct to the Public Service Staffing Tribunal for adjudication if the department head or Attorney General:
 
 - Is unable to determine, on a balance of probabilities, whether or not an employee has engaged in misconduct;
 - Is unable to obtain sufficient evidence to properly investigate the alleged misconduct of an employee;
 - Is able to determine that misconduct has occurred but unable to reach a conclusion as to whether or not to administer disciplinary action, what disciplinary action to administer, or whether or not to terminate an employee; or
 - Otherwise believes that a referral to the Public Service Staffing Tribunal for adjudication would be advisable.
 
-88.	In an administrative proceeding for misconduct, the Public Service Staffing Tribunal has the same authority as the District Court in summoning witnesses, issuing subpoenas, and ordering the production of documentary evidence.
-89.	In an administrative proceeding for misconduct, the Public Service Staffing Tribunal may administer interim measures of any length, until the conclusion of the administrative proceeding.
-90.	At the conclusion of an administrative proceeding for misconduct, the Public Service Staffing Tribunal may do any of the following:
+92.	In an administrative proceeding for misconduct, the Public Service Staffing Tribunal has the same authority as the District Court in summoning witnesses, issuing subpoenas, and ordering the production of documentary evidence.
+93.	In an administrative proceeding for misconduct, the Public Service Staffing Tribunal may administer interim measures of any length, until the conclusion of the administrative proceeding.
+94.	At the conclusion of an administrative proceeding for misconduct, the Public Service Staffing Tribunal may do any of the following:
 
 - Adjudicate that misconduct occurred;
 - Adjudicate that misconduct did not occur;
@@ -346,16 +366,24 @@ Assembly of Millbrooke
 - Modify or rescind disciplinary action or a termination already administered; and
 - Make any other orders which the Public Service Staffing Tribunal deems appropriate in the circumstances.
 
+#### Absence of respondent
+
+95.	A person has been served a notice to appear for an administrative proceeding for misconduct and who does not appear before the Public Service Staffing Tribunal after more than 10 days after the date of service or who is unresponsive to ongoing proceedings for 14 days or more in any 30-day period:
+
+-	May be deemed by the Tribunal to have forfeit his or her right to make full answer and defence; 
+-	May be deemed by the Tribunal to not contest the proceedings against him or her; and
+-	May be given an adjudication and order in his or her absence and without further notice.
+
 #### Workforce adjustment
 
-91.	A department head may request a workforce adjustment if the department head determines that a position is no longer required due to a lack of work, the discontinuance of a function, or a restructuring in that department, and that involuntary separations will necessarily be required as a result.
-92.	Schedule A departments are not eligible to undergo workforce adjustment.
-93.	To initiate the workforce adjustment process, the department head must do all of the following:
+96.	A department head may request a workforce adjustment if the department head determines that a position is no longer required due to a lack of work, the discontinuance of a function, or a restructuring in that department, and that involuntary separations will necessarily be required as a result.
+97.	Schedule A departments are not eligible to undergo workforce adjustment.
+98.	To initiate the workforce adjustment process, the department head must do all of the following:
 
 - Notify all employees occupying the affected positions that they are at risk of being involuntarily separated; and
 - Refer an administrative proceeding for workforce adjustment to the Public Service Staffing Tribunal.
 
-94.	To undergo workforce adjustment, the department head must satisfy the Public Service Staffing Tribunal that:
+99.	To undergo workforce adjustment, the department head must satisfy the Public Service Staffing Tribunal that:
 
 - There is a valid operational reason for undergoing workforce adjustment;
 - The positions identified as being affected were identified logically and for a valid operational reason independently of the persons occupying those positions;
@@ -364,16 +392,16 @@ Assembly of Millbrooke
 - The use of the workforce adjustment process does not constitute disguised discipline, whether intentional or not; and
 - On the whole, the use of workforce adjustment to issue involuntary separations would not be unjust.
 
-95.	At the conclusion of an administrative proceeding for workforce adjustment, the Public Service Staffing Tribunal may do any of the following:
+100.	At the conclusion of an administrative proceeding for workforce adjustment, the Public Service Staffing Tribunal may do any of the following:
 
 - If satisfied that the department head’s request for workforce adjustment is lawful, approve workforce adjustment in full or in part and notify the employees occupying the affected positions that the department head is entitled to involuntarily separate some or all of them 30 days after the date of the notice; or
 - If not satisfied that the department head’s request for workforce adjustment is lawful, reject the request for workforce adjustment and notify the employees occupying the affected positions that their positions are no longer affected and that they are no longer at risk of being involuntarily separated.
 
 ## REMEDY AND ENFORCEMENT
 
-96.	Anyone whose rights, as provided in this Act, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.
-97.	The Attorney General’s oversight and inquiry authority under the [Constitution]( https://github.com/State-of-Millbrooke/Laws/tree/main/Constitution) extends to the public service in respect of this Act.
-98.	Every person who contravenes this Act is guilty of Disobeying a statute under section 47 of the [*State Code*](https://github.com/State-of-Millbrooke/Laws/tree/main/State%20Code).
+101.	Anyone whose rights, as provided in this Act, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.
+102.	The Attorney General’s oversight and inquiry authority under the [Constitution]( https://github.com/State-of-Millbrooke/Laws/tree/main/Constitution) extends to the public service in respect of this Act.
+103.	Every person who contravenes this Act is guilty of Disobeying a statute under section 47 of the [*State Code*](https://github.com/State-of-Millbrooke/Laws/tree/main/State%20Code).
 
 ---
 
